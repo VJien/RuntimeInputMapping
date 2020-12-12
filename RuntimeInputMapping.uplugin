@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineVersion": "4.26.0",
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RuntimeInputMapping",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "V&J",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RuntimeInputMapping",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+			"WhitelistPlatforms":["Win64","Android"]
+		}
+	]
+}
